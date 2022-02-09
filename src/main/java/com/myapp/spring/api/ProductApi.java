@@ -93,6 +93,7 @@ public class ProductApi {
 		Map<String, Boolean> response = new HashMap<>();
 		response.put("deleted", Boolean.TRUE);
 		return response;
+		//new feature
 	}
 
 }
